@@ -1,4 +1,5 @@
 setup.py
+RL_algos/DQN.py
 RL_algos/PPO.py
 RL_algos/PPO1.py
 RL_algos.egg-info/PKG-INFO
